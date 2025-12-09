@@ -50,25 +50,9 @@ Flutter · Dart
 
 ---
 
-### 📈 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlhabshi&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAlhabshi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAlhabshi&theme=tokyonight&margin-w=10" />
-</p>
-
----
-
 ### 📬 Connect with Me
 
-📌 a.alhabshi2002@gmail.com
+📌 Email : a.alhabshi2002@gmail.com
 
 ---
 
